@@ -1,0 +1,18 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' fill='none'>
+  <rect width='800' height='600' fill='#f1f5f9'/>
+  <rect x='0' y='0' width='800' height='100' fill='#94a3b8'/>
+  <rect x='0' y='100' width='800' height='500' fill='#ffffff'/>
+  <rect x='50' y='200' width='150' height='300' fill='#e2e8f0'/>
+  <path d='M75 450 L100 320 L200 320 L225 450 Z' fill='#3b82f6'/>
+  <circle cx='87' cy='450' r='25' fill='#1e293b'/>
+  <circle cx='212' cy='450' r='25' fill='#1e293b'/>
+  <rect x='280' y='180' width='180' height='320' fill='#e2e8f0'/>
+  <path d='M300 470 L330 320 L430 320 L460 470 Z' fill='#8b5cf6'/>
+  <circle cx='315' cy='470' r='30' fill='#1e293b'/>
+  <circle cx='445' cy='470' r='30' fill='#1e293b'/>
+  <rect x='520' y='220' width='160' height='280' fill='#e2e8f0'/>
+  <path d='M540 450 L565 340 L655 340 L680 450 Z' fill='#06b6d4'/>
+  <circle cx='552' cy='450' r='22' fill='#1e293b'/>
+  <circle cx='667' cy='450' r='22' fill='#1e293b'/>
+  <rect x='100' y='80' width='600' height='4' fill='#cbd5e1'/>
+</svg>

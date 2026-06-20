@@ -1,0 +1,15 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 600' fill='none'>
+  <rect width='800' height='600' fill='#f8fafc'/>
+  <path d='M200 450 L250 300 L550 300 L600 450 Z' fill='#3b82f6'/>
+  <path d='M220 450 L260 320 L540 320 L580 450 Z' fill='#60a5fa'/>
+  <circle cx='240' cy='450' r='35' fill='#1e293b'/>
+  <circle cx='560' cy='450' r='35' fill='#1e293b'/>
+  <circle cx='240' cy='450' r='25' fill='#64748b'/>
+  <circle cx='560' cy='450' r='25' fill='#64748b'/>
+  <rect x='320' y='280' width='160' height='40' rx='5' fill='#1e293b'/>
+  <circle cx='400' cy='300' r='15' fill='#fbbf24'/>
+  <rect x='380' y='240' width='40' height='50' fill='#3b82f6'/>
+  <path d='M380 240 L360 200 L440 200 L420 240 Z' fill='#3b82f6'/>
+  <rect x='300' y='350' width='200' height='8' fill='#94a3b8'/>
+  <text x='400' y='550' text-anchor='middle' font-family='sans-serif' font-size='20' fill='#64748b'>Electric Bicycle</text>
+</svg>

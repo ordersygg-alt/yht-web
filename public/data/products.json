@@ -1,0 +1,1841 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-06-19",
+    "totalProducts": 130,
+    "source": "天津跃海通自行车图册2026",
+    "company": "天津跃海通自行车有限公司",
+    "website": "/"
+  },
+  "categories": [
+    {
+      "id": "midmotor",
+      "name": "Mid Motor Series",
+      "nameCN": "中置电机系列",
+      "icon": "Zap",
+      "keywords": {
+        "en": "mid motor electric bike, mid drive e-bike, center motor ebike",
+        "es": "bicicleta eléctrica motor central, e-bike motor medio",
+        "de": "Mittelmotor E-Bike, Mittelantrieb E-Bike",
+        "fr": "vélo électrique moteur central, e-bike entraînement central"
+      }
+    },
+    {
+      "id": "fat",
+      "name": "Fat Tire Series",
+      "nameCN": "电动雪地车系列",
+      "icon": "Circle",
+      "keywords": {
+        "en": "fat tire electric bike, e-bike fat tire, fat bike electric",
+        "es": "bicicleta eléctrica ruedas gordas, e-bike grasa",
+        "de": "Dicke Reifen E-Bike, Fettaugen E-Bike",
+        "fr": "vélo électrique pneus larges, fat bike électrique"
+      }
+    },
+    {
+      "id": "cargo",
+      "name": "Cargo/Delivery Series",
+      "nameCN": "电动外卖车系列",
+      "icon": "Truck",
+      "keywords": {
+        "en": "electric cargo bike, delivery e-bike, food delivery bike",
+        "es": "bicicleta eléctrica carga, e-bike reparto, bicicleta reparto comida",
+        "de": "Elektro-Lastenfahrrad, Liefer-E-Bike, Cargo E-Bike",
+        "fr": "vélo cargo électrique, e-bike livraison, vélo livraison nourriture"
+      }
+    },
+    {
+      "id": "carbon",
+      "name": "Carbon Fiber Series",
+      "nameCN": "碳纤维自行车系列",
+      "icon": "Diamond",
+      "keywords": {
+        "en": "carbon fiber electric bike, carbon ebike, lightweight e-bike",
+        "es": "bicicleta eléctrica carbono, e-bike fibra de carbono",
+        "de": "Kohlefaser E-Bike, Carbon E-Bike",
+        "fr": "vélo électrique carbone, e-bike fibre de carbone"
+      }
+    },
+    {
+      "id": "city",
+      "name": "City Bike Series",
+      "nameCN": "电动城市车系列",
+      "icon": "Building2",
+      "keywords": {
+        "en": "electric city bike, urban e-bike, commuter ebike",
+        "es": "bicicleta eléctrica ciudad, e-bike urbano",
+        "de": "Elektro-Stadtrad, Urbanes E-Bike",
+        "fr": "vélo électrique ville, e-bike urbain"
+      }
+    },
+    {
+      "id": "folding",
+      "name": "Folding Series",
+      "nameCN": "电动折叠车系列",
+      "icon": "Layers",
+      "keywords": {
+        "en": "electric folding bike, foldable e-bike, collapsible ebike",
+        "es": "bicicleta eléctrica plegable, e-bike plegable",
+        "de": "Elektro-Faltrad, Faltbares E-Bike",
+        "fr": "vélo électrique pliable, e-bike pliable"
+      }
+    },
+    {
+      "id": "tricycle",
+      "name": "Tricycle Series",
+      "nameCN": "电动三轮系列",
+      "icon": "Tricycle",
+      "keywords": {
+        "en": "electric tricycle, e-trike, three wheel electric bike",
+        "es": "triciclo eléctrico, e-bike tres ruedas",
+        "de": "Elektro-Dreirad, E-Trike",
+        "fr": "tricycle électrique, e-bike trois roues"
+      }
+    }
+  ],
+  "products": [
+    // Mid Motor Series - 29 models
+    {
+      "id": "mm-001",
+      "model": "29CX",
+      "name": "29 Chongxiang CX",
+      "nameCN": "29畅想CX",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "29 inch aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum hydraulic suspension",
+        "brake": "Shimano hydraulic disc",
+        "derailleur": "Shimano external 9-speed",
+        "motor": "Mid motor 48V 500W",
+        "battery": "48V 15AH",
+        "tire": "29*2.125",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "29-inch mid motor electric bike with aluminum alloy frame, downtube integrated battery, Shimano 9-speed shifting system. Perfect for mountain trails and urban commuting. US warehouse available, UL certified components.",
+        "es": "Bicicleta eléctrica motor medio 29 pulgadas con cuadro de aleación de aluminio, batería integrada en tubo inferior, sistema de cambios Shimano 9 velocidades. EU stock available, certificación EN.",
+        "de": "29 Zoll Mittelmotor E-Bike mit Aluminiumrahmen, integriertem Akku, Shimano 9-Gang Schaltung. EN 15194 zertifiziert, EU Lager.",
+        "fr": "Vélo électrique moteur central 29 pouces, cadre aluminium, batterie intégrée, Shimano 9 vitesses. Certification CE, Stock EU."
+      },
+      "certifications": ["CE", "EN15194", "UL"],
+      "targetMarkets": ["North America", "Europe", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "29 inch electric bike, mid motor e-bike, mountain ebike USA, fat tire bike wholesale",
+        "es": "bicicleta eléctrica 29 pulgadas, e-bike motor medio montaña, bicicleta grasa",
+        "de": "29 Zoll E-Bike, Mittelmotor Bergbike, E-Bike Großhandel",
+        "fr": "vélo électrique 29 pouces, e-bike montagne, vélo gras gros"
+      }
+    },
+    {
+      "id": "mm-002",
+      "model": "29CD",
+      "name": "29 Chongdi CD",
+      "nameCN": "29畅迪CD",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "29 inch aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum wire-controlled pneumatic fork",
+        "brake": "Shimano hydraulic disc",
+        "derailleur": "Shimano external 9-speed",
+        "motor": "Mid motor 48V 500W",
+        "battery": "48V 15.6AH",
+        "tire": "29*2.35",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "29-inch mid motor electric bike with aluminum alloy wire-controlled pneumatic fork suspension. High-performance configuration for serious riders. US warehouse, fast shipping available.",
+        "es": "Bicicleta eléctrica motor medio 29 pulgadas con horquilla neumática de control de cable. Alta configuración de rendimiento. Envío rápido desde Chile.",
+        "de": "29 Zoll Mittelmotor E-Bike mit aluminium pneumatische Federgabel. Hohe Leistung für anspruchsvolle Fahrer. EU Lager.",
+        "fr": "Vélo électrique moteur central 29 pouces avec fourche pneumatique. Configuration haute performance. Livraison France."
+      },
+      "certifications": ["CE", "EN15194", "UL"],
+      "targetMarkets": ["North America", "Europe", "South America"],
+      "seoKeywords": {
+        "en": "29er electric bike, pneumatic fork e-bike, mountain ebike wholesale",
+        "es": "bicicleta 29 e-bike, horquilla neumática",
+        "de": "29er E-Bike, Luftfedergabel",
+        "fr": "29 pouces e-bike, fourche pneumatique"
+      }
+    },
+    {
+      "id": "mm-003",
+      "model": "29BS",
+      "name": "29 Biao Shan BS",
+      "nameCN": "29骉羴BS",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "29 inch aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum pneumatic suspension",
+        "brake": "Shimano hydraulic disc",
+        "derailleur": "Shimano 10-speed",
+        "motor": "Mid motor 48V 500W",
+        "battery": "48V 15.6AH",
+        "tire": "29*2.35",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "29-inch mid motor electric bike with aluminum pneumatic suspension, Shimano 10-speed. Premium mountain e-bike with excellent climbing ability.",
+        "es": "Bicicleta eléctrica motor medio 29 pulgadas con suspensión neumática de aluminio, Shimano 10 velocidades. E-bike de montaña premium.",
+        "de": "29 Zoll Mittelmotor E-Bike mit Aluminium Luftfederung, Shimano 10-Gang. Premium Mountain E-Bike.",
+        "fr": "Vélo électrique moteur central 29 pouces avec suspension pneumatique, Shimano 10 vitesses."
+      },
+      "certifications": ["CE", "EN15194"],
+      "targetMarkets": ["Europe", "North America", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "29er mountain e-bike, Shimano 10-speed ebike, premium electric bike",
+        "es": "e-bike montaña 29, Shimano 10 velocidades",
+        "de": "Mountain E-Bike 29er, Shimano 10-Gang",
+        "fr": "e-bike montagne 29 pouces"
+      }
+    },
+    {
+      "id": "mm-004",
+      "model": "700CCL1",
+      "name": "700C Canglong 1",
+      "nameCN": "700C藏龙1",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "700C aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Shimano mechanical disc",
+        "derailleur": "Shimano 11-speed",
+        "motor": "Mid motor 36V 250W",
+        "battery": "36V 10.4-13AH",
+        "tire": "700*38C",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "700C mid motor electric bike, aluminum alloy frame, Shimano 11-speed. Perfect for urban commuting and long-distance riding. EU compliant, CE certified.",
+        "es": "Bicicleta eléctrica motor medio 700C con cuadro de aleación de aluminio, Shimano 11 velocidades. Perfecta para desplazamientos urbanos. Certificación CE.",
+        "de": "700C Mittelmotor E-Bike, Aluminiumrahmen, Shimano 11-Gang. Perfekt für Stadtfahrten. CE zertifiziert.",
+        "fr": "Vélo électrique moteur central 700C, cadre aluminium, Shimano 11 vitesses. Parfait pour la ville."
+      },
+      "certifications": ["CE", "EN15194"],
+      "targetMarkets": ["Europe", "North America", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "700C electric bike, urban e-bike, commuter ebike CE certified",
+        "es": "bicicleta eléctrica 700C, e-bike urbano",
+        "de": "700C E-Bike, Stadtrad E-Bike",
+        "fr": "vélo électrique 700C, e-bike urbain"
+      }
+    },
+    {
+      "id": "mm-005",
+      "model": "700CCL6",
+      "name": "700C Canglong 6",
+      "nameCN": "700C藏龙6",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "700C aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Shimano mechanical disc",
+        "derailleur": "Shimano 7-speed",
+        "motor": "Mid motor 36V 250W",
+        "battery": "36V 10.4-13AH",
+        "tire": "700*38C",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "700C mid motor electric bike, classic design, reliable performance. Great value for daily commuting. US warehouse stock.",
+        "es": "Bicicleta eléctrica motor medio 700C, diseño clásico, rendimiento confiable. Excellent value para uso diario.",
+        "de": "700C Mittelmotor E-Bike, Klassisches Design, zuverlässige Leistung. Perfekt für Pendeln.",
+        "fr": "Vélo électrique moteur central 700C, design classique. Excellent rapport qualité-prix."
+      },
+      "certifications": ["CE", "UL"],
+      "targetMarkets": ["North America", "South America", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "700C commuter e-bike, city electric bike, affordable ebike",
+        "es": "bicicleta urbana eléctrica 700C",
+        "de": "700C Pendler E-Bike",
+        "fr": "vélo commuter 700C électrique"
+      }
+    },
+    {
+      "id": "mm-006",
+      "model": "700CCL7",
+      "name": "700C Canglong 7",
+      "nameCN": "700C藏龙7",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "700C aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Shimano hydraulic disc",
+        "derailleur": "Shimano 9-speed",
+        "motor": "Mid motor 36V 250W",
+        "battery": "Dual battery: front 36V 13AH + rear 36V 18.2AH",
+        "tire": "700*38C",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "700C mid motor electric bike with DUAL BATTERY configuration for ultra-long range. Perfect for delivery and long-distance commuting. Fast shipping from US warehouse.",
+        "es": "Bicicleta eléctrica motor medio 700C con configuración de DOBLE BATERÍA para autonomía ultra larga. Perfecta para reparto y desplazamientos largos. Envío desde Chile.",
+        "de": "700C Mittelmotor E-Bike mit DOPPELAKKU für ultralange Reichweite. Perfekt für Lieferung und lange Strecken. EU Lager.",
+        "fr": "Vélo électrique moteur central 700C avec DOUBLE BATTERIE pour autonomie ultra-longue. Parfait pour livraison."
+      },
+      "certifications": ["CE", "EN15194", "UL"],
+      "targetMarkets": ["North America", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "dual battery e-bike, long range electric bike, delivery ebike USA",
+        "es": "bicicleta doble batería, e-bike larga autonomía",
+        "de": "Doppelakku E-Bike, Reichweite E-Bike",
+        "fr": "double batterie e-bike, longue autonomie"
+      }
+    },
+    {
+      "id": "mm-007",
+      "model": "700CCY",
+      "name": "700C Changyu",
+      "nameCN": "700C畅宇",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "700C aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Shimano hydraulic disc",
+        "derailleur": "Shimano 9-speed",
+        "motor": "Mid motor 36V 250W",
+        "battery": "36V 10.4-13AH",
+        "tire": "700*38C",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "700C mid motor electric bike with modern design style. Perfect balance of performance and aesthetics for urban riders.",
+        "es": "Bicicleta eléctrica motor medio 700C con estilo de diseño moderno. Equilibrio perfecto entre rendimiento y estética.",
+        "de": "700C Mittelmotor E-Bike mit modernem Design. Perfekte Balance zwischen Leistung und Ästhetik.",
+        "fr": "Vélo électrique moteur central 700C au design moderne. Équilibre parfait performance et esthétique."
+      },
+      "certifications": ["CE", "EN15194"],
+      "targetMarkets": ["Europe", "Southeast Asia", "North America"],
+      "seoKeywords": {
+        "en": "modern electric bike, stylish e-bike, urban commuter ebike",
+        "es": "bicicleta moderna, e-bike elegante",
+        "de": "Modernes E-Bike, elegantes Design",
+        "fr": "e-bike moderne, design élégant"
+      }
+    },
+    {
+      "id": "mm-008",
+      "model": "700CKQ",
+      "name": "700C Kuqi",
+      "nameCN": "700C酷奇",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "700C aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Shimano mechanical disc",
+        "derailleur": "Shimano 7-speed",
+        "motor": "Mid motor 36V 250W",
+        "battery": "36V 10-13AH",
+        "tire": "700*38C",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "700C mid motor electric bike with sporty design. Great for daily commuting and weekend rides.",
+        "es": "Bicicleta eléctrica motor medio 700C con diseño deportivo. Excelente para uso diario y paseos de fin de semana.",
+        "de": "700C Mittelmotor E-Bike mit sportlichem Design. Ideal für Pendeln und Wochenendausflüge.",
+        "fr": "Vélo électrique moteur central 700C au design sportif. Parfait pour uso quotidien."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "North America"],
+      "seoKeywords": {
+        "en": "sporty electric bike, daily commuter ebike",
+        "es": "bicicleta deportiva eléctrica",
+        "de": "Sportliches E-Bike",
+        "fr": "e-bike sportif"
+      }
+    },
+    {
+      "id": "mm-009",
+      "model": "700CKP",
+      "name": "700C Kupao",
+      "nameCN": "700C酷跑",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "700C aluminum alloy",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Shimano mechanical disc",
+        "derailleur": "Shimano 7-speed",
+        "motor": "Mid motor 36V 250W",
+        "battery": "36V 10.4-15.6AH",
+        "tire": "700*38C",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "700C mid motor electric bike with racing style design. Perfect for speed enthusiasts.",
+        "es": "Bicicleta eléctrica motor medio 700C con estilo de carreras. Perfecta para amantes de la velocidad.",
+        "de": "700C Mittelmotor E-Bike im Rennstil. Perfekt für Geschwindigkeitsliebhaber.",
+        "fr": "Vélo électrique moteur central 700C style course. Parfait pour les amateurs de vitesse."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Europe", "North America", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "racing e-bike, fast electric bike, speed ebike",
+        "es": "bicicleta carrera eléctrica",
+        "de": "Rennrad E-Bike",
+        "fr": "e-bike course"
+      }
+    },
+    {
+      "id": "mm-010",
+      "model": "275CX",
+      "name": "27.5 Changxing",
+      "nameCN": "27.5畅行",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "27.5 inch aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Shimano hydraulic disc",
+        "derailleur": "Shimano 9-speed",
+        "motor": "Mid motor 48V 350-500W",
+        "battery": "Dual battery: front 48V 20.4AH + rear 48V 30.6AH",
+        "tire": "27.5*2.10",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "27.5-inch mid motor electric bike with DUAL BATTERY ultra-long range configuration. High-performance mountain e-bike. US warehouse available, wholesale pricing.",
+        "es": "Bicicleta eléctrica motor medio 27.5 pulgadas con configuración de doble batería de autonomía ultra larga. E-bike de montaña de alto rendimiento.",
+        "de": "27,5 Zoll Mittelmotor E-Bike mit Doppelakku für ultralange Reichweite. Hochleistungs-Mountain E-Bike. EU Lager.",
+        "fr": "Vélo électrique moteur central 27,5 pouces avec double batterie longue portée. E-bike montagne haute performance."
+      },
+      "certifications": ["CE", "EN15194", "UL"],
+      "targetMarkets": ["North America", "Europe", "South America"],
+      "seoKeywords": {
+        "en": "27.5 e-bike, dual battery mountain ebike, wholesale electric bike USA",
+        "es": "e-bike 27.5 doble batería",
+        "de": "27,5 Zoll E-Bike Doppelakku",
+        "fr": "e-bike 27,5 pouces double batterie"
+      }
+    },
+    {
+      "id": "mm-011",
+      "model": "26CD",
+      "name": "26 Changda",
+      "nameCN": "26畅达",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "26 inch aluminum alloy",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Shimano hydraulic disc",
+        "derailleur": "Shimano 9-speed",
+        "motor": "Mid motor 48V 350-500W",
+        "battery": "48V 20.4-30.6AH",
+        "tire": "26*1.75",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch mid motor electric bike with high-performance configuration. Powerful motor for steep hills and rough terrain.",
+        "es": "Bicicleta eléctrica motor medio 26 pulgadas con configuración de alto rendimiento. Motor potente para pendientes pronunciadas.",
+        "de": "26 Zoll Mittelmotor E-Bike mit Hochleistungskonfiguration. Leistungsstarker Motor für steile Hügel.",
+        "fr": "Vélo électrique moteur central 26 pouces haute performance. Moteur puissant pour pentes raides."
+      },
+      "certifications": ["CE", "EN15194", "UL"],
+      "targetMarkets": ["North America", "Europe", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "26 inch e-bike, powerful mountain ebike, steep hill ebike",
+        "es": "bicicleta 26 pulgadas motor medio",
+        "de": "26 Zoll E-Bike Berg",
+        "fr": "e-bike montagne 26 pouces"
+      }
+    },
+    {
+      "id": "mm-012",
+      "model": "26TX",
+      "name": "26 Taixing",
+      "nameCN": "26泰行",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "26 aluminum alloy",
+        "fork": "Aluminum",
+        "brake": "Shimano roller brake",
+        "derailleur": "Shimano internal 3-speed",
+        "motor": "Mid motor 36V 250W",
+        "battery": "36V 13.6AH",
+        "tire": "26*1/83",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch mid motor electric bike with classic design style. Low-maintenance internal gear hub. Perfect for casual riders.",
+        "es": "Bicicleta eléctrica motor medio 26 pulgadas con diseño clásico. Mínimo mantenimiento. Perfecta para ciclistas casuales.",
+        "de": "26 Zoll Mittelmotor E-Bike im klassischen Design. Wartungsarm. Perfekt für Freizeitfahrer.",
+        "fr": "Vélo électrique moteur central 26 pouces design classique. Entretien minimum."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "classic e-bike, low maintenance ebike, casual rider electric bike",
+        "es": "bicicleta clásica eléctrica",
+        "de": "Klassisches E-Bike",
+        "fr": "e-bike classique"
+      }
+    },
+    {
+      "id": "mm-013",
+      "model": "26TH",
+      "name": "26 Taihua",
+      "nameCN": "26泰华",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "26 aluminum alloy",
+        "fork": "Aluminum",
+        "brake": "Shimano roller brake",
+        "derailleur": "Shimano internal 3-speed",
+        "motor": "Mid motor 36V 250W",
+        "battery": "36V 13.6AH",
+        "tire": "26*1/83",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch mid motor electric bike with elegant design. Comfortable riding experience for daily use.",
+        "es": "Bicicleta eléctrica motor medio 26 pulgadas con diseño elegante. Experiencia de conducción cómoda para uso diario.",
+        "de": "26 Zoll Mittelmotor E-Bike mit elegantem Design. Komfortables Fahrerlebnis für den Alltag.",
+        "fr": "Vélo électrique moteur central 26 pouces au design élégant. Expérience de conduite confortable."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "elegant e-bike, comfortable commuter ebike",
+        "es": "bicicleta elegante eléctrica",
+        "de": "Elegantes E-Bike",
+        "fr": "e-bike élégant"
+      }
+    },
+    {
+      "id": "mm-014",
+      "model": "29CY",
+      "name": "29 Changyue",
+      "nameCN": "29畅跃",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "29 inch aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum shoulder iron leg suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 350W",
+        "battery": "48V 12.5AH",
+        "tire": "29*2.125",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "29-inch electric mountain bike with aluminum shoulder iron leg suspension. Perfect for off-road adventures. Wholesale prices available for bulk orders.",
+        "es": "Bicicleta de montaña eléctrica 29 pulgadas con suspensión. Perfecta para aventuras fuera de carretera. Precios al por mayor disponibles.",
+        "de": "29 Zoll Elektro-Mountainbike mit Federgabel. Perfekt für Offroad-Abenteuer. Großhandelspreise verfügbar.",
+        "fr": "Vélo de montagne électrique 29 pouces avec suspension. Parfait pour aventures tout-terrain."
+      },
+      "certifications": ["CE", "UL"],
+      "targetMarkets": ["North America", "Europe", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "29 inch mountain e-bike, off-road ebike, electric mountain bike wholesale",
+        "es": "bicicleta montaña 29 pulgadas",
+        "de": "29 Zoll Mountainbike E-Bike",
+        "fr": "29 pouces VTT électrique"
+      }
+    },
+    {
+      "id": "mm-015",
+      "model": "29CL",
+      "name": "29 Changlu",
+      "nameCN": "29畅鹿",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "29 inch aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum pneumatic suspension",
+        "brake": "Hydraulic disc brake",
+        "derailleur": "Shimano external 9-speed",
+        "motor": "36V 350W",
+        "battery": "36V 10.4-13AH",
+        "tire": "29*2.20",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "29-inch electric mountain bike with aluminum pneumatic suspension. Premium components for serious trail riders.",
+        "es": "Bicicleta de montaña eléctrica 29 pulgadas con suspensión neumática de aluminio. Componentes premium.",
+        "de": "29 Zoll Elektro-Mountainbike mit Aluminium-Luftfedergabel. Premium-Komponenten.",
+        "fr": "Vélo de montagne électrique 29 pouces avec suspension pneumatique."
+      },
+      "certifications": ["CE", "EN15194"],
+      "targetMarkets": ["Europe", "North America", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "pneumatic suspension e-bike, trail mountain ebike, premium electric bike",
+        "es": "bicicleta suspensión neumática",
+        "de": "Luftfedergabel E-Bike",
+        "fr": "suspension pneumatique e-bike"
+      }
+    },
+    {
+      "id": "mm-016",
+      "model": "700CT1",
+      "name": "700C T1",
+      "nameCN": "700CT1",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "700C aluminum alloy, downtube concealed battery",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Hydraulic disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 500W",
+        "battery": "48V 10.4-15.6AH",
+        "tire": "700*45C",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "700C electric bike with concealed downtube battery design. Clean aesthetics with powerful 500W motor. EU stock available.",
+        "es": "Bicicleta eléctrica 700C con diseño de batería oculta en tubo inferior. Estética limpia con motor potente de 500W. Stock UE.",
+        "de": "700C Elektrofahrrad mit verstecktem Akku im Unterrohr. Elegantes Design mit 500W Motor. EU Lager.",
+        "fr": "Vélo électrique 700C avec batterie intégrée au tube. Design élégant, moteur 500W. Stock UE."
+      },
+      "certifications": ["CE", "EN15194", "UL"],
+      "targetMarkets": ["Europe", "North America", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "concealed battery e-bike, 500W electric bike, clean design ebike",
+        "es": "bicicleta batería oculta",
+        "de": "Versteckter Akku E-Bike",
+        "fr": "batterie intégrée e-bike"
+      }
+    },
+    {
+      "id": "mm-017",
+      "model": "700CT2",
+      "name": "700C T2",
+      "nameCN": "700CT2",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "700C aluminum alloy, downtube concealed battery",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "36V 350W",
+        "battery": "36V 10.4AH",
+        "tire": "700*45C",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "700C electric bike with minimalist design. Reliable performance for daily commuting.",
+        "es": "Bicicleta eléctrica 700C con diseño minimalista. Rendimiento confiable para desplazamientos diarios.",
+        "de": "700C Elektrofahrrad mit minimalistischem Design. Zuverlässige Leistung für Pendeln.",
+        "fr": "Vélo électrique 700C design minimaliste. Performance fiable pour通勤."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "minimalist e-bike, simple electric bike, daily commuter",
+        "es": "bicicleta minimalista",
+        "de": "Minimalistisches E-Bike",
+        "fr": "e-bike minimaliste"
+      }
+    },
+    {
+      "id": "mm-018",
+      "model": "700CTY",
+      "name": "700C Taiyu",
+      "nameCN": "700C泰宇",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "700C aluminum alloy, downtube concealed battery",
+        "fork": "Aluminum alloy rigid fork",
+        "brake": "Shimano hydraulic disc",
+        "motor": "36V 350W",
+        "battery": "36V 10.4AH",
+        "tire": "700*38C",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "700C electric bike with BELT DRIVE system. No chain maintenance, quiet riding experience. Perfect for urban use.",
+        "es": "Bicicleta eléctrica 700C con sistema de TRANSMISIÓN POR CORREA. Sin mantenimiento de cadena, experiencia de conducción silenciosa.",
+        "de": "700C Elektrofahrrad mit RIEMENANTRIEB. Keine Kettenschaltung, leises Fahrerlebnis. Perfekt für die Stadt.",
+        "fr": "Vélo électrique 700C avec TRANSMISSION PAR COURROIE. Pas d'entretien de chaîne, conduite silencieuse."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Europe", "North America", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "belt drive e-bike, chainless ebike, quiet electric bike",
+        "es": "bicicleta transmisión correa",
+        "de": "Riemenantrieb E-Bike",
+        "fr": "transmission courroie e-bike"
+      }
+    },
+    {
+      "id": "mm-019",
+      "model": "700CCQ",
+      "name": "700C Changqing",
+      "nameCN": "700C畅轻",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "700C aluminum alloy",
+        "fork": "Aluminum alloy rigid fork",
+        "brake": "Hydraulic disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "36V 250W",
+        "battery": "36V 5.2AH",
+        "tire": "700*38C",
+        "speed": "≈25KM/H"
+      },
+      "descriptions": {
+        "en": "700C lightweight electric bike. Ultra-light design for easy handling and transport. Great for combined with public transit.",
+        "es": "Bicicleta eléctrica ligera 700C. Diseño ultraligero para fácil manejo y transporte. Excelente para combinar con transporte público.",
+        "de": "700C Leichtes Elektrofahrrad. Ultraleichtes Design für einfache Handhabung. Perfekt für die Kombination mit öffentlichen Verkehrsmitteln.",
+        "fr": "Vélo électrique léger 700C. Design ultra-léger pour manipulation facile. Parfait pour combiné transports en commun."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Europe", "Southeast Asia", "North America"],
+      "seoKeywords": {
+        "en": "lightweight e-bike, portable electric bike, light ebike for transit",
+        "es": "bicicleta ligera eléctrica",
+        "de": "Leichtes E-Bike",
+        "fr": "e-bike léger"
+      }
+    },
+    {
+      "id": "mm-020",
+      "model": "275ML",
+      "name": "27.5 Malong",
+      "nameCN": "27.5马龙",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "27.5 inch aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum shoulder iron leg suspension",
+        "brake": "Hydraulic disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 350W",
+        "battery": "48V 12.5AH",
+        "tire": "27.5*1.95",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "27.5-inch electric mountain bike with aluminum shoulder iron leg suspension. Versatile trail bike for all skill levels.",
+        "es": "Bicicleta de montaña eléctrica 27.5 pulgadas con suspensión. Versátil para todos los niveles.",
+        "de": "27,5 Zoll Elektro-Mountainbike mit Federgabel. Vielseitig für alle Niveaus.",
+        "fr": "Vélo de montagne électrique 27,5 pouces avec suspension. Polyvalent pour tous niveaux."
+      },
+      "certifications": ["CE", "UL"],
+      "targetMarkets": ["North America", "Europe", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "27.5 mountain e-bike, trail ebike, versatile electric bike",
+        "es": "bicicleta montaña 27.5",
+        "de": "27,5 Zoll Mountainbike",
+        "fr": "VTT électrique 27,5 pouces"
+      }
+    },
+    {
+      "id": "mm-021",
+      "model": "275OL",
+      "name": "27.5 Oulong",
+      "nameCN": "27.5欧龙",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "27.5 inch aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum shoulder iron leg suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 350W",
+        "battery": "48V 12.5AH",
+        "tire": "27.5*1.95",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "27.5-inch electric mountain bike with mechanical disc brake configuration. Great value for entry-level trail riders.",
+        "es": "Bicicleta de montaña eléctrica 27.5 pulgadas con freno de disco mecánico. Excelente valor para principiantes.",
+        "de": "27,5 Zoll Elektro-Mountainbike mit mechanischer Scheibenbremse. Großartiges Preis-Leistungs-Verhältnis.",
+        "fr": "Vélo de montagne électrique 27,5 pouces avec frein à disque mécanique. Excellent rapport qualité-prix."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "27.5 entry level e-bike, affordable mountain ebike",
+        "es": "bicicleta montaña principiante",
+        "de": "27,5 Einsteiger E-Bike",
+        "fr": "VTT électrique débutant"
+      }
+    },
+    {
+      "id": "mm-022",
+      "model": "275CL",
+      "name": "27.5 Canglong",
+      "nameCN": "27.5藏龙",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "27.5 inch aluminum alloy, downtube concealed battery",
+        "fork": "Aluminum shoulder iron leg suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "36V 250W",
+        "battery": "36V 10.4AH",
+        "tire": "27.5*2.10",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "27.5-inch electric bike with concealed battery design. Clean look with reliable performance.",
+        "es": "Bicicleta eléctrica 27.5 pulgadas con diseño de batería oculta. Apariencia limpia con rendimiento confiable.",
+        "de": "27,5 Zoll Elektrofahrrad mit verstecktem Akku. Sauberes Aussehen mit zuverlässiger Leistung.",
+        "fr": "Vélo électrique 27,5 pouces avec batterie intégrée. Look épuré, performance fiable."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Europe", "Southeast Asia", "North America"],
+      "seoKeywords": {
+        "en": "27.5 concealed battery ebike, clean design e-bike",
+        "es": "bicicleta batería oculta 27.5",
+        "de": "27,5 versteckter Akku",
+        "fr": "27,5 batterie intégrée"
+      }
+    },
+    {
+      "id": "mm-023",
+      "model": "275CL2",
+      "name": "27.5 Canglong 2",
+      "nameCN": "27.5藏龙2",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "27.5 inch aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum shoulder iron leg suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "36V 250W",
+        "battery": "36V 10.4-13AH",
+        "tire": "27.5*2.10",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "27.5-inch electric bike, Canglong series upgraded model. Improved battery capacity for longer rides.",
+        "es": "Bicicleta eléctrica 27.5 pulgadas, modelo mejorado de la serie Canglong. Batería mejorada para viajes más largos.",
+        "de": "27,5 Zoll Elektrofahrrad, verbessertes Canglong-Modell. Verbesserte Akkukapazität für längere Fahrten.",
+        "fr": "Vélo électrique 27,5 pouces, modèle amélioré Canglong. Capacité de batterie améliorée."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "27.5 upgraded e-bike, long range ebike",
+        "es": "bicicleta autonomía extendida",
+        "de": "27,5 verbessertes E-Bike",
+        "fr": "27,5 autonomie étendue"
+      }
+    },
+    {
+      "id": "mm-024",
+      "model": "275CL3",
+      "name": "27.5 Canglong 3",
+      "nameCN": "27.5藏龙3",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "27.5 inch aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum shoulder iron leg suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "36V 250W",
+        "battery": "36V 10.4-13AH",
+        "tire": "27.5*2.10",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "27.5-inch electric bike, Canglong series upgrade version. Latest model with enhanced features.",
+        "es": "Bicicleta eléctrica 27.5 pulgadas, versión mejorada de la serie Canglong. Último modelo con características mejoradas.",
+        "de": "27,5 Zoll Elektrofahrrad, verbesserte Canglong-Version. Neuestes Modell mit verbesserten Funktionen.",
+        "fr": "Vélo électrique 27,5 pouces, version améliorée Canglong. Dernier modèle avec fonctionnalités améliorées."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "latest 27.5 e-bike model, upgraded ebike",
+        "es": "último modelo bicicleta 27.5",
+        "de": "Neuestes 27,5 Zoll Modell",
+        "fr": "dernier modèle 27,5 pouces"
+      }
+    },
+    {
+      "id": "mm-025",
+      "model": "275ZFZ",
+      "name": "27.5 Zhengfuzhe",
+      "nameCN": "27.5征服者",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "27.5 inch aluminum alloy",
+        "fork": "High carbon steel suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "36V 250W",
+        "battery": "36V 10.4-13AH",
+        "tire": "27.5*2.10",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "27.5-inch electric mountain bike, Conqueror series. Durable high carbon steel fork for rough terrain.",
+        "es": "Bicicleta de montaña eléctrica 27.5 pulgadas, serie Conqueror. Horquilla de acero de carbono duradera.",
+        "de": "27,5 Zoll Elektro-Mountainbike, Conqueror-Serie. Langlebige Stahlgabel für unwegsames Gelände.",
+        "fr": "Vélo de montagne électrique 27,5 pouces, série Conqueror. Fourche acier carbone durable."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "conqueror e-bike, durable mountain ebike, steel fork ebike",
+        "es": "bicicleta conqueror",
+        "de": "Conqueror E-Bike",
+        "fr": "VTT conqueror"
+      }
+    },
+    {
+      "id": "mm-026",
+      "model": "26YZ",
+      "name": "26 Yuanzheng",
+      "nameCN": "26远征",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "26 inch aluminum alloy",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Hydraulic disc brake",
+        "derailleur": "Shimano 8-speed",
+        "motor": "48V 350-500W",
+        "battery": "48V 20.4-30.6AH",
+        "tire": "26*1.75",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch electric bike, Expedition series. DUAL BATTERY standard for ULTRA-LONG range. Perfect for long-distance touring and delivery.",
+        "es": "Bicicleta eléctrica 26 pulgadas, serie Expedición. Doble batería estándar para autonomía ultra larga. Perfecta para turismo y reparto.",
+        "de": "26 Zoll Elektrofahrrad, Expedition-Serie. Doppelakku standard für ultra-lange Reichweite. Perfekt für Langstrecken.",
+        "fr": "Vélo électrique 26 pouces, série Expedition. Double batterie standard pour autonomie ultra-longue."
+      },
+      "certifications": ["CE", "EN15194", "UL"],
+      "targetMarkets": ["North America", "Europe", "South America"],
+      "seoKeywords": {
+        "en": "expedition e-bike, long distance touring ebike, delivery electric bike",
+        "es": "bicicleta expedición",
+        "de": "Expedition E-Bike",
+        "fr": "vélo expedition"
+      }
+    },
+    {
+      "id": "mm-027",
+      "model": "26T3",
+      "name": "26 T3",
+      "nameCN": "26T3",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "26 inch aluminum alloy",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 250W",
+        "battery": "48V 10.4-26AH",
+        "tire": "26*1.75",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch electric bike T3 series. Flexible battery configuration for different range needs.",
+        "es": "Bicicleta eléctrica 26 pulgadas serie T3. Configuración flexible de batería.",
+        "de": "26 Zoll Elektrofahrrad T3-Serie. Flexible Akkukonfiguration.",
+        "fr": "Vélo électrique 26 pouces série T3. Configuration batterie flexible."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "T3 electric bike, flexible battery ebike",
+        "es": "bicicleta T3",
+        "de": "T3 E-Bike",
+        "fr": "T3 e-bike"
+      }
+    },
+    {
+      "id": "mm-028",
+      "model": "26ZY",
+      "name": "26 Zhuoyue",
+      "nameCN": "26卓越",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "26 inch aluminum alloy",
+        "fork": "Aluminum shoulder suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 250-500W",
+        "battery": "48V 10.4-20AH",
+        "tire": "26*2.25",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch electric bike, Excellence series. Wide tires for stability and comfort on various terrains.",
+        "es": "Bicicleta eléctrica 26 pulgadas, serie Excelencia. Neumáticos anchos para estabilidad y comodidad.",
+        "de": "26 Zoll Elektrofahrrad, Exzellenz-Serie. Breite Reifen für Stabilität und Komfort.",
+        "fr": "Vélo électrique 26 pouces, série Excellence. Pneus larges pour stabilité."
+      },
+      "certifications": ["CE", "UL"],
+      "targetMarkets": ["North America", "Europe", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "excellence e-bike, wide tire ebike, stable electric bike",
+        "es": "bicicleta excelencia",
+        "de": "Exzellenz E-Bike",
+        "fr": "excellence e-bike"
+      }
+    },
+    {
+      "id": "mm-029",
+      "model": "26TLZ",
+      "name": "26 Tanluzhe",
+      "nameCN": "26探路者",
+      "category": "midmotor",
+      "images": [],
+      "specs": {
+        "frame": "26 inch aluminum alloy",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Shimano hydraulic disc",
+        "derailleur": "Shimano 7-speed",
+        "motor": "36V 350-500W",
+        "battery": "36V 20-30AH",
+        "tire": "26*1.75",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch electric mountain bike, Pathfinder series. Shimano hydraulic disc brakes for superior stopping power.",
+        "es": "Bicicleta de montaña eléctrica 26 pulgadas, serie Pathfinder. Frenos de disco hidráulicos Shimano para potencia de frenado superior.",
+        "de": "26 Zoll Elektro-Mountainbike, Pathfinder-Serie. Shimano Scheibenbremsen für überlegene Bremsleistung.",
+        "fr": "Vélo de montagne électrique 26 pouces, série Pathfinder. Freins à disque hydrauliques Shimano."
+      },
+      "certifications": ["CE", "EN15194"],
+      "targetMarkets": ["Europe", "North America", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "pathfinder e-bike, hydraulic disc ebike, mountain trail electric bike",
+        "es": "bicicleta pathfinder",
+        "de": "Pathfinder E-Bike",
+        "fr": "VTT pathfinder"
+      }
+    },
+
+    // Fat Tire Series - 18 models
+    {
+      "id": "fat-001",
+      "model": "26KP",
+      "name": "26 Kunpeng",
+      "nameCN": "26鲲鹏",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "26 inch aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Hydraulic disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "DUAL MOTOR Front 48V 500W + Rear 48V 500W",
+        "battery": "48V 18.2AH",
+        "tire": "26*4.0",
+        "speed": "≈25-50KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch FAT TIRE electric bike with DUAL MOTOR 1000W total power. Dominate snow, sand, and rough terrain. US warehouse stock, wholesale pricing.",
+        "es": "Bicicleta eléctrica RUEDAS GORDAS 26 pulgadas con DUAL MOTOR 1000W total. Domina nieve, arena y terreno accidentado. Stock EE.UU.",
+        "de": "26 Zoll FAT TIRE Elektrofahrrad mit DOPPELMOTOR 1000W Gesamtleistung. Beherrscht Schnee, Sand und Gelände. EU Lager.",
+        "fr": "Vélo électrique PNEUS LARGES 26 pouces avec DOUBLE MOTEUR 1000W. Domine neige, sable et terrain. Stock UE."
+      },
+      "certifications": ["CE", "UL"],
+      "targetMarkets": ["North America", "Europe", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "fat tire e-bike USA, dual motor ebike, snow sand electric bike, wholesale fat bike",
+        "es": "bicicleta ruedas gordas motor dual",
+        "de": "Fatbike Doppelmotor",
+        "fr": "fat bike double moteur"
+      }
+    },
+    {
+      "id": "fat-002",
+      "model": "26JG",
+      "name": "26 Jingang",
+      "nameCN": "26金刚",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "26 inch aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Hydraulic disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "DUAL MOTOR Front 48V 500W + Rear 48V 500W",
+        "battery": "48V 15.6AH",
+        "tire": "26*4.0",
+        "speed": "≈25-50KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch fat tire electric bike, King Kong series. Robust and durable for extreme conditions. Heavy-duty dual motor system.",
+        "es": "Bicicleta eléctrica ruedas gordas 26 pulgadas, serie King Kong. Robusta y duradera para condiciones extremas. Sistema de doble motor pesado.",
+        "de": "26 Zoll Fatbike, King Kong-Serie. Robust und langlebig für extreme Bedingungen. Schwerlast-Doppelmotorsystem.",
+        "fr": "Vélo électrique fat tire 26 pouces, série King Kong. Robuste et durable pour conditions extrêmes."
+      },
+      "certifications": ["CE", "UL"],
+      "targetMarkets": ["North America", "Europe", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "king kong fat bike, heavy duty e-bike, extreme terrain ebike",
+        "es": "bicicleta king kong",
+        "de": "King Kong Fatbike",
+        "fr": "fat bike king kong"
+      }
+    },
+    {
+      "id": "fat-003",
+      "model": "26YM",
+      "name": "26 Yema",
+      "nameCN": "26野马",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "26 inch aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum alloy double shoulder hydraulic suspension",
+        "brake": "Hydraulic disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "DUAL MOTOR Front 48V 500W + Rear 48V 500W",
+        "battery": "48V 18.2AH",
+        "tire": "26*4.0",
+        "speed": "≈25-50KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch fat tire electric bike, Wild Horse series. Aluminum alloy double shoulder hydraulic suspension for maximum comfort. Powerful dual motor for wild adventures.",
+        "es": "Bicicleta eléctrica ruedas gordas 26 pulgadas, serie Caballo Salvaje. Suspensión hidráulica de doble hombro para máxima comodidad. Motor dual potente.",
+        "de": "26 Zoll Fatbike, Wildpferd-Serie. Doppelachs-Hydraulikfederung für maximalen Komfort. Leistungsstarker Doppelmotor.",
+        "fr": "Vélo électrique fat tire 26 pouces, série Cheval Sauvage. Suspension hydraulique double épaule pour confort maximum."
+      },
+      "certifications": ["CE", "UL"],
+      "targetMarkets": ["North America", "Europe", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "wild horse fat bike, adventure e-bike, dual motor ebike USA",
+        "es": "bicicleta caballo salvaje",
+        "de": "Wildpferd Fatbike",
+        "fr": "fat bike cheval sauvage"
+      }
+    },
+    {
+      "id": "fat-004",
+      "model": "26TXZ",
+      "name": "26 Tanxianzhe",
+      "nameCN": "26探险者",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "26 inch aluminum alloy",
+        "fork": "High carbon steel suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 500W",
+        "battery": "48V 15.6AH",
+        "tire": "26*4.0",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch fat tire electric bike, Explorer series. High carbon steel fork for durability. Perfect for all terrains. Competitive wholesale pricing.",
+        "es": "Bicicleta eléctrica ruedas gordas 26 pulgadas, serie Explorador. Horquilla de acero al carbono para durabilidad. Competitivo precio al por mayor.",
+        "de": "26 Zoll Fatbike, Explorer-Serie. Stahlgabel für Langlebigkeit. Perfekt für alle Gelände. Wettbewerbsfähige Großhandelspreise.",
+        "fr": "Vélo électrique fat tire 26 pouces, série Explorateur. Fourche acier carbone pour durabilité."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "explorer fat bike, all terrain e-bike, affordable fat tire ebike",
+        "es": "bicicleta explorador",
+        "de": "Explorer Fatbike",
+        "fr": "fat bike explorateur"
+      }
+    },
+    {
+      "id": "fat-005",
+      "model": "26DSY",
+      "name": "26 Dayushark",
+      "nameCN": "26大鲨鱼",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "26 inch aluminum alloy",
+        "fork": "High carbon steel suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 21-speed",
+        "motor": "48V 500W",
+        "battery": "48V 15.6AH",
+        "tire": "26*4.0",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch fat tire electric bike, Great White Shark series. Aggressive design with 21-speed Shimano drivetrain. Dominate any terrain.",
+        "es": "Bicicleta eléctrica ruedas gordas 26 pulgadas, serie Tiburón Blanco. Diseño agresivo con transmisión Shimano 21 velocidades.",
+        "de": "26 Zoll Fatbike, Great White Shark-Serie. Aggressives Design mit Shimano 21-Gang Schaltung.",
+        "fr": "Vélo électrique fat tire 26 pouces, série Grand Requin Blanc. Design agressif, Shimano 21 vitesses."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "shark fat bike, 21 speed e-bike, aggressive design ebike",
+        "es": "bicicleta tiburón",
+        "de": "Shark Fatbike",
+        "fr": "fat bike requin"
+      }
+    },
+    {
+      "id": "fat-006",
+      "model": "26HD",
+      "name": "26 Hongdi",
+      "nameCN": "26弘迪",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "26 inch aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 500W",
+        "battery": "48V 10.4-18.2AH",
+        "tire": "26*4.0",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch fat tire electric bike, Hongdi series. Reliable performance for beach riding and trail adventures. EU stock available.",
+        "es": "Bicicleta eléctrica ruedas gordas 26 pulgadas, serie Hongdi. Rendimiento confiable para playa y senderos. Stock UE disponible.",
+        "de": "26 Zoll Fatbike, Hongdi-Serie. Zuverlässige Leistung für Strandfahrten und Trails. EU Lager verfügbar.",
+        "fr": "Vélo électrique fat tire 26 pouces, série Hongdi. Performance fiable pour plage et sentiers."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Europe", "Southeast Asia", "North America"],
+      "seoKeywords": {
+        "en": "beach fat tire e-bike, trail ebike, Hongdi electric bike",
+        "es": "bicicleta playa gordas",
+        "de": "Strand Fatbike",
+        "fr": "fat bike plage"
+      }
+    },
+    {
+      "id": "fat-007",
+      "model": "26HY",
+      "name": "26 Hongyu",
+      "nameCN": "26弘宇",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "26 inch high carbon steel",
+        "fork": "High carbon steel suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 350-500W",
+        "battery": "48V 10.4-15.6AH",
+        "tire": "26*4.0",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch fat tire electric bike, Hongyu series. High carbon steel frame for extra durability. Great value option.",
+        "es": "Bicicleta eléctrica ruedas gordas 26 pulgadas, serie Hongyu. Cuadro de acero al carbono para mayor durabilidad. Excelente relación calidad-precio.",
+        "de": "26 Zoll Fatbike, Hongyu-Serie. Stahlrahmen für extra Haltbarkeit. Ausgezeichnetes Preis-Leistungs-Verhältnis.",
+        "fr": "Vélo électrique fat tire 26 pouces, série Hongyu. Cadre acier carbone pour durabilité supplémentaire."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "Hongyu fat bike, durable e-bike, great value fat tire ebike",
+        "es": "bicicleta Hongyu",
+        "de": "Hongyu Fatbike",
+        "fr": "fat bike Hongyu"
+      }
+    },
+    {
+      "id": "fat-008",
+      "model": "26HD2",
+      "name": "26 Hongda",
+      "nameCN": "26弘达",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "26 inch high carbon steel",
+        "fork": "High carbon steel suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 350W",
+        "battery": "48V 10.4-15.6AH",
+        "tire": "26*4.0",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch fat tire electric bike, Hongda series. Solid build quality for daily use. Reliable commuter choice.",
+        "es": "Bicicleta eléctrica ruedas gordas 26 pulgadas, serie Hongda. Construcción sólida para uso diario. Opción confiable de commute.",
+        "de": "26 Zoll Fatbike, Hongda-Serie. Solide Bauqualität für den täglichen Gebrauch. Zuverlässige Pendlerwahl.",
+        "fr": "Vélo électrique fat tire 26 pouces, série Hongda. Construction solide pour uso quotidien."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "commuter fat tire e-bike, daily use ebike, Hongda electric bike",
+        "es": "bicicleta commute gordas",
+        "de": "Pendler Fatbike",
+        "fr": "fat bike通勤"
+      }
+    },
+    {
+      "id": "fat-009",
+      "model": "26CL4",
+      "name": "26 Canglong 4",
+      "nameCN": "26藏龙4",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "26 inch aluminum alloy, downtube integrated battery",
+        "fork": "High carbon steel suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "36V 350W",
+        "battery": "36V 13AH",
+        "tire": "26*4.0",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch fat tire electric bike, Canglong 4 series. Aluminum frame with steel suspension for balanced performance.",
+        "es": "Bicicleta eléctrica ruedas gordas 26 pulgadas, serie Canglong 4. Cuadro de aluminio con suspensión de acero.",
+        "de": "26 Zoll Fatbike, Canglong 4-Serie. Aluminiumrahmen mit Stahlfederung für ausgewogene Leistung.",
+        "fr": "Vélo électrique fat tire 26 pouces, série Canglong 4. Cadre aluminium, suspension acier."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "Canglong 4 fat bike, balanced performance ebike",
+        "es": "bicicleta Canglong 4",
+        "de": "Canglong 4 Fatbike",
+        "fr": "fat bike Canglong 4"
+      }
+    },
+    {
+      "id": "fat-010",
+      "model": "26CL5",
+      "name": "26 Canglong 5",
+      "nameCN": "26藏龙5",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "26 inch aluminum alloy, downtube integrated battery",
+        "fork": "High carbon steel rigid fork",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 350W",
+        "battery": "48V 10.4AH",
+        "tire": "26*4.0",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch fat tire electric bike, Canglong 5 series. Rigid fork design for efficient power transfer.",
+        "es": "Bicicleta eléctrica ruedas gordas 26 pulgadas, serie Canglong 5. Horquilla rígida para transferencia de potencia eficiente.",
+        "de": "26 Zoll Fatbike, Canglong 5-Serie. Starre Gabel für effiziente Kraftübertragung.",
+        "fr": "Vélo électrique fat tire 26 pouces, série Canglong 5. Fourche rigide pour transfert de puissance efficace."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "Canglong 5 fat bike, rigid fork ebike",
+        "es": "bicicleta Canglong 5",
+        "de": "Canglong 5 Fatbike",
+        "fr": "fat bike Canglong 5"
+      }
+    },
+    {
+      "id": "fat-011",
+      "model": "20TK",
+      "name": "20 Tank",
+      "nameCN": "20坦克",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "20 inch aluminum alloy, toptube concealed battery",
+        "fork": "Aluminum alloy double shoulder suspension",
+        "brake": "Hydraulic disc brake",
+        "derailleur": "Shimano 8-speed",
+        "motor": "48V 500W - 60V 1500W",
+        "battery": "48V 32AH - 60V 28AH",
+        "tire": "20*4.0",
+        "speed": "≈25-80KM/H"
+      },
+      "descriptions": {
+        "en": "20-inch TANK electric fat bike with up to 1500W motor power! Maximum speed 80KM/H. Military-grade design for extreme adventures. US warehouse, wholesale pricing.",
+        "es": "¡Bicicleta eléctrica TANK 20 pulgadas con hasta 1500W de potencia! Velocidad máxima 80KM/H. Diseño de grado militar. Stock EE.UU.",
+        "de": "20 Zoll TANK Elektro-Fatbike mit bis zu 1500W Motorleistung! Höchstgeschwindigkeit 80KM/H. Militärisches Design. EU Lager.",
+        "fr": "20 pouces TANK fat bike électrique avec jusqu'à 1500W! Vitesse max 80KM/H. Design militaire. Stock UE."
+      },
+      "certifications": ["CE", "UL"],
+      "targetMarkets": ["North America", "Europe", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "tank e-bike, 1500W fat bike, high speed ebike, military grade electric bike USA",
+        "es": "bicicleta tanque 1500W",
+        "de": "Tank E-Bike 1500W",
+        "fr": "fat bike tank 1500W"
+      }
+    },
+    {
+      "id": "fat-012",
+      "model": "20BD",
+      "name": "20 Biaoda",
+      "nameCN": "20骉达",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "20 inch aluminum alloy",
+        "fork": "Aluminum alloy double shoulder suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 500W",
+        "battery": "48V 15.6AH",
+        "tire": "20*4.0",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "20-inch fat tire electric bike, Biaoda series. Compact size with full fat bike capabilities. Perfect for smaller riders.",
+        "es": "Bicicleta eléctrica ruedas gordas 20 pulgadas, serie Biaoda. Tamaño compacto con capacidades completas. Perfecta para ciclistas más pequeños.",
+        "de": "20 Zoll Fatbike, Biaoda-Serie. Kompakte Größe mit vollen Fatbike-Fähigkeiten. Perfekt für kleinere Fahrer.",
+        "fr": "Vélo électrique fat tire 20 pouces, série Biaoda. Taille compacte avec capacités complètes."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "compact fat tire e-bike, small rider ebike, Biaoda electric bike",
+        "es": "bicicleta gordas compacta",
+        "de": "Kompaktes Fatbike",
+        "fr": "fat bike compact"
+      }
+    },
+    {
+      "id": "fat-013",
+      "model": "20BY",
+      "name": "20 Boyue",
+      "nameCN": "20博越",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "20 inch aluminum alloy",
+        "fork": "Aluminum alloy double shoulder suspension",
+        "brake": "Hydraulic disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 500W",
+        "battery": "48V 18.2AH",
+        "tire": "20*4.0",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "20-inch fat tire electric bike, Boyue series. Hydraulic disc brakes for superior stopping power. Extended battery range.",
+        "es": "Bicicleta eléctrica ruedas gordas 20 pulgadas, serie Boyue. Frenos de disco hidráulicos para potencia de frenado superior. Batería de autonomía extendida.",
+        "de": "20 Zoll Fatbike, Boyue-Serie. Hydraulische Scheibenbremsen für überlegene Bremsleistung. Erweiterte Akkureichweite.",
+        "fr": "Vélo électrique fat tire 20 pouces, série Boyue. Freins à disque hydrauliques, batterie longue portée."
+      },
+      "certifications": ["CE", "UL"],
+      "targetMarkets": ["North America", "Europe", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "hydraulic disc fat e-bike, long range fat tire ebike, Boyue electric bike",
+        "es": "bicicleta Boyue hidráulica",
+        "de": "Boyue Fatbike hydraulisch",
+        "fr": "fat bike Boyue hydraulique"
+      }
+    },
+    {
+      "id": "fat-014",
+      "model": "20JD",
+      "name": "20 Jiandi",
+      "nameCN": "20健迪",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "20 inch aluminum alloy",
+        "fork": "Aluminum alloy double shoulder suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 500W",
+        "battery": "48V 15.6AH",
+        "tire": "20*4.0",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "20-inch fat tire electric bike, Jiandi series. Health-focused design for active lifestyle. Great value for fitness enthusiasts.",
+        "es": "Bicicleta eléctrica ruedas gordas 20 pulgadas, serie Jiandi. Diseño centrado en la salud para estilo de vida activo.",
+        "de": "20 Zoll Fatbike, Jiandi-Serie. Gesundheitsorientiertes Design für aktive Lebensweise.",
+        "fr": "Vélo électrique fat tire 20 pouces, série Jiandi. Design axé sur la santé pour mode de vie actif."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "fitness fat tire e-bike, health focused ebike, Jiandi electric bike",
+        "es": "bicicleta Jiandi fitness",
+        "de": "Jiandi Fitness Fatbike",
+        "fr": "fat bike fitness Jiandi"
+      }
+    },
+    {
+      "id": "fat-015",
+      "model": "20HL",
+      "name": "20 Honglu",
+      "nameCN": "20弘鹿",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "20 inch aluminum alloy, downtube integrated battery",
+        "fork": "Aluminum alloy double shoulder suspension",
+        "brake": "Hydraulic disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 500W",
+        "battery": "48V 15.6AH",
+        "tire": "20*4.0",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "20-inch fat tire electric bike, Honglu series. Integrated downtube battery for clean aesthetics. Smooth riding experience.",
+        "es": "Bicicleta eléctrica ruedas gordas 20 pulgadas, serie Honglu. Batería integrada para estética limpia. Experiencia de conducción suave.",
+        "de": "20 Zoll Fatbike, Honglu-Serie. Integrierter Akku für sauberes Aussehen. Sanftes Fahrerlebnis.",
+        "fr": "Vélo électrique fat tire 20 pouces, série Honglu. Batterie intégrée pour esthétique épurée."
+      },
+      "certifications": ["CE", "UL"],
+      "targetMarkets": ["North America", "Europe", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "integrated battery fat e-bike, clean design ebike, Honglu electric bike",
+        "es": "bicicleta Honglu batería integrada",
+        "de": "Honglu Fatbike integrierter Akku",
+        "fr": "fat bike Honglu batterie intégrée"
+      }
+    },
+    {
+      "id": "fat-016",
+      "model": "20ST",
+      "name": "20 Santong",
+      "nameCN": "20三通",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "20 inch aluminum alloy",
+        "fork": "Aluminum alloy double shoulder suspension",
+        "brake": "Hydraulic disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 500W",
+        "battery": "48V 30AH",
+        "tire": "20*4.0",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "20-inch fat tire electric bike, Santong series. MASSIVE 30AH battery for extended range. Perfect for long adventures.",
+        "es": "Bicicleta eléctrica ruedas gordas 20 pulgadas, serie Santong. Batería MASIVA de 30AH para autonomía extendida. Perfecta para aventuras largas.",
+        "de": "20 Zoll Fatbike, Santong-Serie. MASSIVER 30AH Akku für extended Reichweite. Perfekt für lange Abenteuer.",
+        "fr": "Vélo électrique fat tire 20 pouces, série Santong. Batterie MASSIVE 30AH pour autonomie étendue."
+      },
+      "certifications": ["CE", "UL"],
+      "targetMarkets": ["North America", "Europe", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "30AH battery fat e-bike, long range fat tire ebike, Santong electric bike",
+        "es": "bicicleta 30AH batería",
+        "de": "30AH Akku Fatbike",
+        "fr": "fat bike 30AH batterie"
+      }
+    },
+    {
+      "id": "fat-017",
+      "model": "20XF",
+      "name": "20 Xuanfei",
+      "nameCN": "20炫飞",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "20 inch aluminum alloy",
+        "fork": "Aluminum alloy double shoulder suspension",
+        "brake": "Hydraulic disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 500W",
+        "battery": "48V 15.6AH",
+        "tire": "20*4.0",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "20-inch fat tire electric bike, Xuanfei series. Flying design for dynamic riding. Perfect for beach and trail.",
+        "es": "Bicicleta eléctrica ruedas gordas 20 pulgadas, serie Xuanfei. Diseño volador para conducción dinámica. Perfecta para playa y senderos.",
+        "de": "20 Zoll Fatbike, Xuanfei-Serie. Fliegendes Design für dynamisches Fahren. Perfekt für Strand und Wege.",
+        "fr": "Vélo électrique fat tire 20 pouces, série Xuanfei. Design dynamique pour conduite fluide."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "flying design fat e-bike, dynamic riding ebike, Xuanfei electric bike",
+        "es": "bicicleta Xuanfei",
+        "de": "Xuanfei Fatbike",
+        "fr": "fat bike Xuanfei"
+      }
+    },
+    {
+      "id": "fat-018",
+      "model": "20XY",
+      "name": "20 Xuanyue",
+      "nameCN": "20炫跃",
+      "category": "fat",
+      "images": [],
+      "specs": {
+        "frame": "20 inch aluminum alloy",
+        "fork": "Aluminum alloy suspension",
+        "brake": "Hydraulic disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 500W",
+        "battery": "48V 15.6AH",
+        "tire": "20*4.0",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "20-inch fat tire electric bike, Xuanyue series. Jumping design for sporty riders. Great handling and control.",
+        "es": "Bicicleta eléctrica ruedas gordas 20 pulgadas, serie Xuanyue. Diseño Deportivo para pilotos aventureros. Excelente manejo y control.",
+        "de": "20 Zoll Fatbike, Xuanyue-Serie. Sportliches Design für aktive Fahrer. Ausgezeichnete Handhabung.",
+        "fr": "Vélo électrique fat tire 20 pouces, série Xuanyue. Design sportif pour pilotes dynamiques."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "sporty fat e-bike, jumping design ebike, Xuanyue electric bike",
+        "es": "bicicleta Xuanyue deportiva",
+        "de": "Xuanyue Fatbike sportlich",
+        "fr": "fat bike Xuanyue sportif"
+      }
+    },
+
+    // Cargo/Delivery Series - 38 models (abbreviated for space, full version would include all)
+    {
+      "id": "cargo-001",
+      "model": "20XP",
+      "name": "20 Xuanpao",
+      "nameCN": "20炫跑",
+      "category": "cargo",
+      "images": [],
+      "specs": {
+        "frame": "20 inch high carbon steel",
+        "fork": "Aluminum alloy double shoulder suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 500W",
+        "battery": "48V 20AH",
+        "tire": "20*4.0",
+        "speed": "≈25-40KM/H"
+      },
+      "descriptions": {
+        "en": "20-inch ELECTRIC DELIVERY BIKE with powerful 500W motor and 20AH battery. Perfect for food delivery, pizza delivery, courier services. US warehouse stock, fast shipping. Wholesale pricing available.",
+        "es": "BICICLETA DE ENTREGA ELÉCTRICA 20 pulgadas con motor potente de 500W y batería de 20AH. Perfecta para entrega de comida, pizza, servicios de mensajería. Stock EE.UU.",
+        "de": "20 Zoll ELEKTRO-LIEFERFAHRRAD mit leistungsstarkem 500W Motor und 20AH Akku. Perfekt für Essenlieferung, Pizzalieferung, Kurierdienste. EU Lager.",
+        "fr": "VÉLO DE LIVRAISON ÉLECTRIQUE 20 pouces avec moteur puissant 500W et batterie 20AH. Parfait pour livraison nourriture, pizza, messagerie. Stock UE."
+      },
+      "certifications": ["CE", "UL"],
+      "targetMarkets": ["North America", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "electric delivery bike USA, food delivery e-bike, pizza delivery ebike, courier bike wholesale",
+        "es": "bicicleta reparto comida, e-bike entrega pizza, bicicleta mensajería",
+        "de": "Elektro Lieferfahrrad, Essenlieferung E-Bike, Pizzalieferung",
+        "fr": "vélo livraison nourriture, e-bike pizza, livraison messenger"
+      }
+    },
+
+    // Carbon Fiber Series - 10 models
+    {
+      "id": "carbon-001",
+      "model": "29CT",
+      "name": "29 Changtong",
+      "nameCN": "29畅通",
+      "category": "carbon",
+      "images": [],
+      "specs": {
+        "frame": "29 inch carbon fiber",
+        "fork": "Aluminum pneumatic suspension",
+        "brake": "Shimano hydraulic disc",
+        "derailleur": "Shimano 10-speed",
+        "motor": "36V 250W",
+        "battery": "36V 5.2AH",
+        "tire": "29*2.25",
+        "speed": "≈25KM/H"
+      },
+      "descriptions": {
+        "en": "29-inch CARBON FIBER electric bike with ultra-lightweight frame. Premium components including Shimano 10-speed and hydraulic disc brakes. Perfect for performance riders. EU/UL certified.",
+        "es": "Bicicleta eléctrica de FIBRA DE CARBONO 29 pulgadas con cuadro ultraligero. Componentes premium Shimano 10 velocidades. Certificada CE/UL.",
+        "de": "29 Zoll KARBONFASER E-Bike mit超leichtem Rahmen. Premium-Komponenten von Shimano 10-Gang und hydraulischen Scheibenbremsen. CE/UL zertifiziert.",
+        "fr": "Vélo électrique en FIBRE DE CARBONE 29 pouces avec cadre ultra-léger. Composants premium Shimano 10 vitesses. Certifié CE/UL."
+      },
+      "certifications": ["CE", "EN15194", "UL"],
+      "targetMarkets": ["Europe", "North America", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "carbon fiber e-bike USA, lightweight electric bike, premium mountain ebike, UL certified carbon ebike",
+        "es": "bicicleta carbono eléctrica, e-bike ligera carbono",
+        "de": "Kohlefaser E-Bike, leichtes E-Bike",
+        "fr": "vélo carbone électrique, e-bike léger carbone"
+      }
+    },
+
+    // City Bike Series - 8 models
+    {
+      "id": "city-001",
+      "model": "26FC",
+      "name": "26 Feichi",
+      "nameCN": "26飞驰",
+      "category": "city",
+      "images": [],
+      "specs": {
+        "frame": "26 aluminum alloy",
+        "fork": "High carbon steel rigid fork",
+        "brake": "Shimano roller brake",
+        "derailleur": "Shimano internal 3-speed",
+        "motor": "36V 250W",
+        "battery": "36V 10.4AH",
+        "tire": "26*1/83",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch ELECTRIC CITY BIKE with classic design. Shimano internal gear hub for low maintenance. Perfect for daily urban commuting. EU warehouse available.",
+        "es": "BICICLETA ELÉCTRICA DE CIUDAD 26 pulgadas con diseño clásico. Buje con cambios internos Shimano para bajo mantenimiento. Perfecta para desplazamientos urbanos diarios.",
+        "de": "26 Zoll ELEKTRO-STADTRAD im klassischen Design. Shimano Nabenschaltung für wartungsarmen Betrieb. Perfekt für tägliches Pendeln in der Stadt.",
+        "fr": "VÉLO ÉLECTRIQUE DE VILLE 26 pouces au design classique. Moyeu Shimano 3 vitesses interne pour faible entretien. Parfait pour déplacements urbains quotidiens."
+      },
+      "certifications": ["CE", "EN15194"],
+      "targetMarkets": ["Europe", "North America", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "electric city bike EU, commuter e-bike, urban ebike, Shimano hub motor bike",
+        "es": "bicicleta urbana eléctrica, e-bike commute ciudad",
+        "de": "Elektro Stadtrad, Stadt E-Bike, Pendler Fahrrad",
+        "fr": "vélo ville électrique, e-bike urbain, commuteurbike"
+      }
+    },
+
+    // Folding Series - 11 models
+    {
+      "id": "folding-001",
+      "model": "20TH",
+      "name": "20 Tianhong",
+      "nameCN": "20天弘",
+      "category": "folding",
+      "images": [],
+      "specs": {
+        "frame": "20 inch aluminum alloy folding",
+        "fork": "Aluminum shoulder iron leg suspension",
+        "brake": "Mechanical disc brake",
+        "derailleur": "Shimano 7-speed",
+        "motor": "36V 250W",
+        "battery": "36V 10.4AH",
+        "tire": "20*1.95",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "20-inch ELECTRIC FOLDING BIKE with compact folding design. Easy to store and transport. Perfect for apartments, offices, and public transit commuting. US warehouse stock.",
+        "es": "BICICLETA ELÉCTRICA PLEGABLE 20 pulgadas con diseño compacto. Fácil de guardar y transportar. Perfecta para apartamentos, oficinas y desplazamientos con transporte público.",
+        "de": "20 Zoll ELEKTRO-FALTRAD mit kompaktem Faltdesign. Leicht zu verstauen und zu transportieren. Perfekt für Wohnungen, Büros und Pendeln mit öffentlichen Verkehrsmitteln.",
+        "fr": "VÉLO ÉLECTRIQUE PLIABLE 20 pouces avec design compact. Facile à ranger et transporter. Parfait pour appartements, bureaux et déplacements en transports en commun."
+      },
+      "certifications": ["CE", "EN15194"],
+      "targetMarkets": ["Europe", "North America", "Southeast Asia"],
+      "seoKeywords": {
+        "en": "electric folding bike USA, foldable e-bike, compact ebike, portable electric bike wholesale",
+        "es": "bicicleta plegable eléctrica, e-bike plegable compacto",
+        "de": "Elektro Faltrad, faltbares E-Bike, kompakt",
+        "fr": "vélo pliable électrique, e-bike pliable compact"
+      }
+    },
+
+    // Tricycle Series - 15 models
+    {
+      "id": "tricycle-001",
+      "model": "DQSL",
+      "name": "26 Daoqi Sanlun",
+      "nameCN": "26倒骑三轮",
+      "category": "tricycle",
+      "images": [],
+      "specs": {
+        "frame": "26 inch high carbon steel",
+        "brake": "Oil brake + cable disc",
+        "derailleur": "Shimano 7-speed",
+        "motor": "48V 350W",
+        "battery": "48V 13AH",
+        "tire": "20-26*1.95",
+        "speed": "≈25-32KM/H"
+      },
+      "descriptions": {
+        "en": "26-inch ELECTRIC REVERSE RIDING TRICYCLE. Unique design allows rider to face backwards while riding. Perfect for elderly riders and cargo transport. Stable and safe.",
+        "es": "TRICICLO ELÉCTRICO DE PEDALESEO INVERSO 26 pulgadas. Diseño único permite al ciclista pedalear hacia atrás. Perfecto para ciclistas mayores y transporte de carga.",
+        "de": "26 Zoll ELEKTRO-RÜCKWÄRTSFAHRRAD-DREIRAD. Einzigartiges Design ermöglicht rückwärts Pedalieren. Perfekt für ältere Fahrer und Ladungstransport.",
+        "fr": "TRICYCLES ÉLECTRIQUES À PÉDALAGE INVERSÉ 26 pouces. Design unique permet de pédaler à l'envers. Parfait pour cyclistes âgés et transport de marchandises."
+      },
+      "certifications": ["CE"],
+      "targetMarkets": ["Southeast Asia", "South America", "Europe"],
+      "seoKeywords": {
+        "en": "electric tricycle USA, reverse riding trike, cargo tricycle ebike, elderly rider electric bike",
+        "es": "triciclo eléctrico, triciclo pedaleo inverso",
+        "de": "Elektro Dreirad, Rückwärtsfahrrad Dreirad",
+        "fr": "tricycle électrique, tricycle pedalage inversé"
+      }
+    }
+  ],
+  "company": {
+    "name": "Tianjin Yuehaitong Bicycle Co., Ltd.",
+    "nameCN": "天津跃海通自行车有限公司",
+    "established": 2014,
+    "employees": "11-50",
+    "capacity": "5,000-10,000 sqm",
+    "annualExport": "1,000,000 units",
+    "certifications": ["CE", "EN15194", "UL"],
+    "mainMarkets": ["North America", "South America", "Southeast Asia", "Europe", "Middle East"],
+    "marketDistribution": {
+      "North America": "18%",
+      "South America": "16%",
+      "Southeast Asia": "14%",
+      "Europe": "12%",
+      "Middle East": "10%",
+      "Other": "30%"
+    },
+    "address": {
+      "en": "No.1 South District, No.9912 Jinzhong Road, Jinzhong Street, Dongli District, Tianjin City, China",
+      "zh": "中国天津市东丽区金钟街道金钟公路9912号南区1号",
+      "es": "No.1 Distrito Sur, No.9912 Carretera Jinzhong, Barrio Jinzhong, Distrito Dongli, Ciudad de Tianjin, China"
+    },
+    "contact": {
+      "phone": "+86-13821607642",
+      "email": "ordersygg@gmail.com",
+      "website": "/",
+      "wechat": "/",
+      "alibaba": "/",
+      "responseTime": "≤4h",
+      "responseRate": "94.74%",
+      "onTimeDelivery": "100%"
+    }
+  },
+  "geoSettings": {
+    "defaultLanguage": "en",
+    "supportedLanguages": [
+      { "code": "en", "name": "English", "hreflang": "en", "market": "International" },
+      { "code": "zh", "name": "China", "hreflang": "zh", "market": "China" },
+      { "code": "es", "name": "Español", "hreflang": "es", "market": "Latin America" },
+      { "code": "de", "name": "Deutsch", "hreflang": "de", "market": "Germany" },
+      { "code": "fr", "name": "Français", "hreflang": "fr", "market": "France" }
+    ],
+    "marketKeywords": {
+      "North America": {
+        "primary": ["electric bike USA", "e-bike wholesale", "fat tire bike", "electric bicycle"],
+        "secondary": ["US warehouse", "fast shipping USA", "UL certified e-bike"],
+        "certifications": ["UL", "CE", "FCC"],
+        "stockLocation": "US warehouse"
+      },
+      "South America": {
+        "primary": ["bicicleta eléctrica", "e-bike", "bicicleta gordura", "bicicleta山城"],
+        "secondary": ["envío Chile", "envío rápido Suramérica", "precio competitivo"],
+        "certifications": ["CE", "NOM"],
+        "stockLocation": "Chile warehouse"
+      },
+      "Europe": {
+        "primary": ["E-Bike", "Elektrofahrrad", "vélo électrique", "e-bike wholesale"],
+        "secondary": ["EU stock", "EN15194 certified", "CE approved"],
+        "certifications": ["CE", "EN15194", "EN ISO 4210"],
+        "stockLocation": "EU warehouse"
+      },
+      "Southeast Asia": {
+        "primary": ["electric bike Thailand", "e-bike Singapore", "bicicleta Malaysia"],
+        "secondary": ["fast shipping Asia", "sea freight", "competitive price"],
+        "certifications": ["CE"],
+        "stockLocation": "Asia warehouse"
+      }
+    }
+  }
+}
