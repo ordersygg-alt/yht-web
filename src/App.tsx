@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { LocaleProvider } from '@/hooks/useLocale';
 import { SeoProvider, SchemaOrg } from '@/components/Seo/Seo';
 import Header from '@/components/Header/Header';
-import Footer from '@/components/Footer/Footer';
+import Footer from '@/components/Footer/footer';
 import Home from '@/pages/Home';
 import Products from '@/pages/Products';
 import About from '@/pages/About';
