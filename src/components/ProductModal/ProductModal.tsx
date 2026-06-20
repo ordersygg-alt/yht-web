@@ -5,6 +5,7 @@ import { X, ChevronLeft, ChevronRight, Zap, Battery, Gauge, MapPin, Weight, Rule
 import type { Product } from '@/data/products';
 import { useLocale } from '@/hooks/useLocale';
 import { translateProductSpecsReverse } from '@/data/specTranslator';
+import { getAssetUrl } from '@/lib/utils';
 
 interface ProductModalProps {
   product: Product | null;
@@ -88,7 +89,7 @@ export default function ProductModal({ product, onClose }: ProductModalProps) {
             {/* Image section */}
             <div className='relative aspect-square lg:aspect-auto bg-gradient-to-br from-slate-100 to-slate-200 dark:from-slate-800 dark:to-slate-900'>
               <img
-                src={product.images[currentImageIndex]}
+                src={getAssetUrl(product.images[currentImageIndex])}
                 alt={product.name}
                 className='w-full h-full object-cover'
               />

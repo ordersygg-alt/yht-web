@@ -12,7 +12,7 @@ export default function App() {
   return (
     <LocaleProvider>
       <SeoProvider>
-        <Router>
+        <Router basename="/yht-web">
           <SchemaOrg />
           <Header />
           <main>

@@ -3,6 +3,7 @@ import { Eye, Zap, Battery, Gauge, ArrowRight } from 'lucide-react';
 import type { Product } from '@/data/products';
 import { useLocale } from '@/hooks/useLocale';
 import { translateProductSpecsReverse } from '@/data/specTranslator';
+import { getAssetUrl } from '@/lib/utils';
 
 interface ProductCardProps {
   product: Product;
@@ -35,7 +36,7 @@ export default function ProductCard({ product, onClick }: ProductCardProps) {
       {/* Image container with overlay effects */}
       <div className='relative aspect-[4/3] overflow-hidden'>
         <img
-          src={product.images[0]}
+          src={getAssetUrl(product.images[0])}
           alt={product.name}
           className='w-full h-full object-cover group-hover:scale-110 transition-transform duration-700'
         />
